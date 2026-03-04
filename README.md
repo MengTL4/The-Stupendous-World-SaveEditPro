@@ -1,3 +1,4 @@
+以代码为准，以下是过时的readme
 # 存档库存/角色修改器
 
 一个基于 Vite + TypeScript + React 的离线网页工具。
